@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Lottery.Domain;
+using Lottery.Logic.Commands;
 using Lottery.Models;
 
 namespace Lottery.Logic.Processors

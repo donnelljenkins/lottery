@@ -172,7 +172,7 @@
     <Compile Include="Logic\Processors\DrawNumbersProcessor.cs" />
     <Compile Include="Logic\Processors\DrawNumbersProcessorResult.cs" />
     <Compile Include="Logic\Processors\GetDrawnNumbersProcessor.cs" />
-    <Compile Include="Logic\Processors\IsWinningTicketCommand.cs" />
+    <Compile Include="Logic\Commands\IsWinningTicketCommand.cs" />
     <Compile Include="Logic\Processors\IsWinningTicketProcessor.cs" />
     <Compile Include="Logic\Processors\IsWinningTicketProcessorResult.cs" />
     <Compile Include="Logic\Queries\LotteryQuery.cs" />
